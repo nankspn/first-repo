@@ -1,7 +1,4 @@
 # first-repo
 My first gh repo for learning git and github.
 
-
-
-
-testing edits sfrom gh ui
+i'm planning to do a linux begininner course at kodekloud.
