@@ -1,0 +1,1 @@
+for num in {1..9}; do echo $num; done 
